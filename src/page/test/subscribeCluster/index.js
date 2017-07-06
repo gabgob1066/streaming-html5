@@ -75,7 +75,7 @@
   }
 
   function displayServerAddress (serverAddress) {
-    addressField.innerText = 'Origin Address: ' + serverAddress;
+    addressField.innerText = 'Edge Address: ' + serverAddress;
   }
 
   // Local lifecycle notifications.
