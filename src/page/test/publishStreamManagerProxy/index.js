@@ -42,7 +42,7 @@
   var defaultConfiguration = {
     protocol: getSocketLocationFromProtocol().protocol,
     port: getSocketLocationFromProtocol().port,
-    app: 'live'
+    app: 'booma'
   };
 
   function displayServerAddress (serverAddress, proxyAddress) 

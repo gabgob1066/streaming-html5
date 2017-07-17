@@ -51,7 +51,7 @@
     var c = {
       protocol: getSocketLocationFromProtocol().protocol,
       port: getSocketLocationFromProtocol().port,
-      app: 'live',
+      app: 'booma',
       bandwidth: {
         audio: 50,
         video: 256,
