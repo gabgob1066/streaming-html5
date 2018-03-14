@@ -82,7 +82,7 @@
       ],
       "googleIce": [
         {
-          "urls": "red5west2turn.red5.org:3478"
+          "urls": "stun:red5west2turn.red5.org:3478"
         }
       ],
       "mozIce": [
