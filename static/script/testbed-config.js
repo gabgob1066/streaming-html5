@@ -77,17 +77,17 @@
       "subscriberFailoverOrder": "rtc,rtmp,hls",
       "iceServers": [
         {
-          "urls": "stun:stun2.l.google.com:19302"
+          "urls": "stun:red5west2turn.red5.org:3478"
         }
       ],
       "googleIce": [
         {
-          "urls": "stun:stun2.l.google.com:19302"
+          "urls": "red5west2turn.red5.org:3478"
         }
       ],
       "mozIce": [
         {
-          "urls": "stun:stun.services.mozilla.com:3478"
+          "urls": "stun:red5west2turn.red5.org:3478"
         }
       ],
       "verboseLogging": true,
